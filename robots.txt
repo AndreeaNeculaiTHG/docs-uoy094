@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-23la2h.kujang138bos.online/sitemap.xml
